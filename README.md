@@ -2,6 +2,8 @@
 This repository contains front-end projects built following the [roadmap.sh](https://roadmap.sh) front-end developer path.
 
 ## Projects List 
+https://roadmap.sh/projects/single-page-cv
+
 <table border="0" style="width: 100%; border-collapse: collapse;">
   <tr>
     <td width="50%" style="padding: 6px; border: none; vertical-align: top;">
