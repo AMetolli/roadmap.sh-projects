@@ -9,7 +9,7 @@ This repository contains front-end projects built following the [roadmap.sh](htt
         <a href="https://github.com/AMetolli/roadmap.sh-projects/tree/main/Frontend%20Projects/01-single-page-CV"><img src="https://raw.githubusercontent.com/AMetolli/roadmap.sh-projects/main/images/single-page-cv.png" alt="CV Vorschau" style="width: 100%; aspect-ratio: 16/10; object-fit: cover; object-position: top; border-radius: 6px; border: 1px solid #d0d7de; display: block;"></a>
         <div style="margin-top: 10px;">
           <a href="https://roadmap.sh/projects/single-page-cv" style="text-decoration: none;"><strong style="color: #0969da; font-size: 14px;">Basic HTML Website</strong></a>
-          <p style="margin-top: 4px; font-size: 11px; color: #57606a; line-height: 1.4;">Modern CV-Layout with HTML & CSS Flexbox.</p>
+          <p style="margin-top: 4px; font-size: 11px; color: #57606a; line-height: 1.4;">Modern CV-Layout with HTML & CSS.</p>
         </div>
       </div>
     </td>
